@@ -8,11 +8,7 @@ To use the machine learning models:
 * All features need to be used for running the model
 * The scaler found in the map 'Models' need to be applied before running the model
 
-Model trained and tested with SKlearn version 1.6.1.
+Models trained and tested with SKlearn version 1.6.1.
 
-
-## Repo content
-
-Test for anynomisation 
 ## License
 
